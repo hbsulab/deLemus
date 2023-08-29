@@ -21,8 +21,8 @@ $(document).ready(function(){
 .panel, .flip {
   padding: 5px;
   text-align: center;
-  background-color: #f2e1ef;
-  border: solid 1px #f2e1ef;
+  background-color: #f2e9f0;
+  border: solid 1px #f2e9f0;
 }
 
 .panel {
@@ -34,11 +34,21 @@ $(document).ready(function(){
 <body>
  
 <div class="flip">2023.08</div>
-<div class="panel">2023.08</div>
+<div class="panel" style="flex;">
+  <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
+  <br>
+  2023.08.04 - 2023.08.22
+  <hr>
+  <img src="{{'assets/img/update_2308/confirmed mutations.png' | relative_url}}" alt="Confirmed mutations" style="width: 700px; height: 400px;">
+</div>
 <hr>
+
 <div class="flip">2023.07</div>
-<div class="panel">2023.07</div>
+<div class="panel" style="flex">
+  <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
+</div>
 <hr>
+
 <div class="flip">2023.06</div>
 <div class="panel">2023.06</div>
 
