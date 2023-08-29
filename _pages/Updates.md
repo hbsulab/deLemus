@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Update
+title: Updates
 nav: true
 nav_order: 2
 ---
