@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Updates
+permalink: /Updates/
 nav: true
 nav_order: 2
 ---
