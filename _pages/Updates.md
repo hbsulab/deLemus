@@ -28,23 +28,25 @@ $(document).ready(function(){
 .panel {
   padding: 50px;
   display: none;
+  text-align: left;
 }
 </style>
 </head>
 <body>
  
-<div class="flip">2023.08</div>
-<div class="panel" style="flex;">
+<div class="flip"><strong>2023.08</strong></div>
+<div class="panel">
   <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
   <br>
-  2023.08.04 - 2023.08.22
+  <br>
+  <strong>2023.08.04 - 2023.08.22</strong>
   <hr>
-  <img src="{{'assets/img/update_2308/confirmed mutations.png' | relative_url}}" alt="Confirmed mutations" style="width: 700px; height: 400px;">
+  <img src="{{'assets/img/update_2308/confirmed mutations.png' | relative_url}}" alt="Confirmed mutations" style="width: 800px; height: 400px;">
 </div>
 <hr>
 
 <div class="flip">2023.07</div>
-<div class="panel" style="flex">
+<div class="panel">
   <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
 </div>
 <hr>
