@@ -10,6 +10,16 @@ layout: default
           </h1>
           <p class="desc">{{ page.subtitle }}</p>
         </header>
+      
+      <br>
+      <hr>
+      <!-- News -->
+      {% if page.news and site.announcements.enabled -%}
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
+      {%- include news.html limit=true %}
+      {%- endif %}
+      <hr>
+      <br>
 
         <article>
           {% if page.profile -%}
@@ -40,12 +50,6 @@ layout: default
           <div class="clearfix">
             {{ content }}
           </div>
-
-          <!-- News -->
-          {% if page.news and site.announcements.enabled -%}
-            <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
-            {%- include news.html limit=true %}
-          {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
