@@ -13,30 +13,42 @@ nav_order: 2
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-  $(".flip").click(function(){
-    $(this).next(".panel").slideToggle("slow");
+  $(".panel").hide();
+
+  // Show latest panel
+  $("#panel-202308").show();
+
+  $("#dateSelect").change(function(){
+
+    $(".panel").hide();
+
+    var selected = $(this).val();
+
+    $("#panel-"+selected.replace('.', '')).show();
   });
 });
 </script>
 <style> 
-.panel, .flip {
-  padding: 5px;
-  text-align: center;
-  background-color: #f2e9f0;
-  border: solid 1px #f2e9f0;
-}
-
 .panel {
   padding: 50px;
-  display: none;
   text-align: left;
+  background-color: #f2e9f0;
+  border: solid 1px #f2e9f0;
 }
 </style>
 </head>
 <body>
  
-<div class="flip"><strong>2023.08</strong></div>
-<div class="panel">
+<select id="dateSelect">
+  <option value="">--Select Month--</option>
+  <option value="2023.08">2023.08</option>
+  <option value="2023.07">2023.07</option>
+  <option value="2023.06">2023.06</option>
+</select>
+
+<div id="panel-202308" class="panel">
+  <h4><strong>Outlined Mutation in 2023.08</strong></h4>
+  <hr>
   <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
   <br>
   <br>
@@ -53,7 +65,7 @@ $(document).ready(function(){
   <strong>3D structure illustration</strong>
   <hr>
 
-  <div class="l-page">
+    <div class="l-page">
     <style>
         .molstar {
             position: relative;
@@ -82,16 +94,16 @@ $(document).ready(function(){
     </script>
 </div>
 </div>
-<hr>
 
-<div class="flip">2023.07</div>
-<div class="panel">
-  <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
+<div id="panel-202307" class="panel">
+2023.07
 </div>
-<hr>
 
-<div class="flip">2023.06</div>
-<div class="panel">2023.06</div>
+<div id="panel-202306" class="panel">
+2023.06
+</div>
 
 </body>
 </html>
+
+

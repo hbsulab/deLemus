@@ -3,7 +3,7 @@ layout: page
 title: Update_v2
 permalink: /Update_v2/
 description: TBA
-nav: true
+nav: false
 nav_order: 2
 display_categories: [2023, 2022]
 horizontal: false
