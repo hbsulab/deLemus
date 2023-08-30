@@ -7,6 +7,7 @@ nav_order: 2
 ---
 <h4>The identified leading mutations in 2023 are listed as follows:<h4>
 <hr>
+<br>
 
 <html>
 <head>
