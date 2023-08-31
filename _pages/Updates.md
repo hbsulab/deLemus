@@ -15,16 +15,11 @@ nav_order: 2
 <script>
 $(document).ready(function(){
   $(".panel").hide();
-
   // Show latest panel
   $("#panel-202308").show();
-
   $("#dateSelect").change(function(){
-
     $(".panel").hide();
-
     var selected = $(this).val();
-
     $("#panel-"+selected.replace('.', '')).show();
   });
 });
