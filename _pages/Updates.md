@@ -222,19 +222,167 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202304" class="panel">
-2023.04
+  <h4><strong>Outlined Mutation in 2023.04</strong></h4>
+  <hr>
+  <img src="{{'assets/img/update_2304/2023-04.png' | relative_url}}" alt="2023-04" style="width: 1100px; height: 250px;">
+  <br>
+  <br>
+  <strong>2023.04.01 - 2023.04.21</strong>
+  <hr>
+  <img src="{{'assets/img/update_2304/confirmed_2304.png' | relative_url}}" alt="Confirmed mutations" style="width: 650px; height: 375px;">
+  <br>
+  <br>
+  <strong>3D structure illustration</strong>
+  <hr>
+    <div class="l-page">
+    <style>
+        .molstar {
+            position: relative;
+            padding-bottom: 50%;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://molstar.org/viewer/molstar.css" />
+    <script type="text/javascript" src="https://molstar.org/viewer/molstar.js"></script>
+    <div id="viewer-4" class="molstar" style="display: block; margin-left:auto; margin-right:auto; padding-bottom: 50%;"></div>
+    <script type="text/javascript">
+        molstar.Viewer.create('viewer-4', {
+            layoutIsExpanded: false,
+            layoutShowControls: false,
+            layoutShowRemoteState: false,
+            layoutShowSequence: true,
+            layoutShowLog: false,
+            layoutShowLeftPanel: true,
+            viewportShowExpand: true,
+            viewportShowSelectionMode: false,
+            viewportShowAnimation: false,
+        }).then(viewer => {
+            viewer.loadSnapshotFromUrl("{{ 'assets/img/update_2304/LM_2023_04.molx' | relative_url }}", 'molx');
+        });
+    </script>
+</div>
 </div>
 
 <div id="panel-202303" class="panel">
-2023.03
+  <h4><strong>Outlined Mutation in 2023.03</strong></h4>
+  <hr>
+  <img src="{{'assets/img/update_2303/2023-03.png' | relative_url}}" alt="2023-03" style="width: 1100px; height: 300px;">
+  <br>
+  <br>
+  <strong>2023.03.01 - 2023.03.21</strong>
+  <hr>
+  <img src="{{'assets/img/update_2303/confirmed_2303.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 250px;">
+  <br>
+  <br>
+  <strong>3D structure illustration</strong>
+  <hr>
+    <div class="l-page">
+    <style>
+        .molstar {
+            position: relative;
+            padding-bottom: 50%;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://molstar.org/viewer/molstar.css" />
+    <script type="text/javascript" src="https://molstar.org/viewer/molstar.js"></script>
+    <div id="viewer-3" class="molstar" style="display: block; margin-left:auto; margin-right:auto; padding-bottom: 50%;"></div>
+    <script type="text/javascript">
+        molstar.Viewer.create('viewer-3', {
+            layoutIsExpanded: false,
+            layoutShowControls: false,
+            layoutShowRemoteState: false,
+            layoutShowSequence: true,
+            layoutShowLog: false,
+            layoutShowLeftPanel: true,
+            viewportShowExpand: true,
+            viewportShowSelectionMode: false,
+            viewportShowAnimation: false,
+        }).then(viewer => {
+            viewer.loadSnapshotFromUrl("{{ 'assets/img/update_2303/LM_2023_03.molx' | relative_url }}", 'molx');
+        });
+    </script>
+</div>
 </div>
 
 <div id="panel-202302" class="panel">
-2023.02
+  <h4><strong>Outlined Mutation in 2023.02</strong></h4>
+  <hr>
+  <img src="{{'assets/img/update_2302/2023-02.png' | relative_url}}" alt="2023-02" style="width: 1100px; height: 250px;">
+  <br>
+  <br>
+  <strong>2023.02.03 - 2023.02.20</strong>
+  <hr>
+  <img src="{{'assets/img/update_2302/confirmed_2302.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 250px;">
+  <br>
+  <br>
+  <strong>3D structure illustration</strong>
+  <hr>
+    <div class="l-page">
+    <style>
+        .molstar {
+            position: relative;
+            padding-bottom: 50%;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://molstar.org/viewer/molstar.css" />
+    <script type="text/javascript" src="https://molstar.org/viewer/molstar.js"></script>
+    <div id="viewer-2" class="molstar" style="display: block; margin-left:auto; margin-right:auto; padding-bottom: 50%;"></div>
+    <script type="text/javascript">
+        molstar.Viewer.create('viewer-2', {
+            layoutIsExpanded: false,
+            layoutShowControls: false,
+            layoutShowRemoteState: false,
+            layoutShowSequence: true,
+            layoutShowLog: false,
+            layoutShowLeftPanel: true,
+            viewportShowExpand: true,
+            viewportShowSelectionMode: false,
+            viewportShowAnimation: false,
+        }).then(viewer => {
+            viewer.loadSnapshotFromUrl("{{ 'assets/img/update_2302/LM_2023_02.molx' | relative_url }}", 'molx');
+        });
+    </script>
+</div>
 </div>
 
 <div id="panel-202301" class="panel">
-2023.01
+  <h4><strong>Outlined Mutation in 2023.01</strong></h4>
+  <hr>
+  <img src="{{'assets/img/update_2301/2023-01.png' | relative_url}}" alt="2023-01" style="width: 1100px; height: 250px;">
+  <br>
+  <br>
+  <strong>2023.01.17 - 2023.01.31</strong>
+  <hr>
+  <img src="{{'assets/img/update_2301/confirmed_2301.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 250px;">
+  <br>
+  <br>
+  <strong>3D structure illustration</strong>
+  <hr>
+    <div class="l-page">
+    <style>
+        .molstar {
+            position: relative;
+            padding-bottom: 50%;
+        }
+    </style>
+    <link rel="stylesheet" type="text/css" href="https://molstar.org/viewer/molstar.css" />
+    <script type="text/javascript" src="https://molstar.org/viewer/molstar.js"></script>
+    <div id="viewer-1" class="molstar" style="display: block; margin-left:auto; margin-right:auto; padding-bottom: 50%;"></div>
+    <script type="text/javascript">
+        molstar.Viewer.create('viewer-1', {
+            layoutIsExpanded: false,
+            layoutShowControls: false,
+            layoutShowRemoteState: false,
+            layoutShowSequence: true,
+            layoutShowLog: false,
+            layoutShowLeftPanel: true,
+            viewportShowExpand: true,
+            viewportShowSelectionMode: false,
+            viewportShowAnimation: false,
+        }).then(viewer => {
+            viewer.loadSnapshotFromUrl("{{ 'assets/img/update_2301/LM_2023_01.molx' | relative_url }}", 'molx');
+        });
+    </script>
+</div>
 </div>
 
 
