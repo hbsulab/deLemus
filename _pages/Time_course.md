@@ -31,7 +31,7 @@ $(document).ready(function(){
   $(".panel").hide();
 
   // Show latest panel
-  $("#panel-202308").show();
+  $("#panel-202307").show();
 
   $("#dateSelect").change(function(){
 
@@ -56,66 +56,51 @@ $(document).ready(function(){
  
 <select id="dateSelect">
   <option value="">--Select Month--</option>
-  <option value="2023.08">2023.08</option>
   <option value="2023.07">2023.07</option>
   <option value="2023.06">2023.06</option>
+  <option value="2023.05">2023.05</option>
+  <option value="2023.04">2023.04</option>
+  <option value="2023.03">2023.03</option>
+  <option value="2023.02">2023.02</option>
+  <option value="2023.01">2023.01</option>
 </select>
 
-<div id="panel-202308" class="panel">
-  <h4><strong>Outlined Mutation in 2023.08</strong></h4>
-  <hr>
-  <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 200px;">
-  <br>
-  <br>
-  <strong>2023.08.04 - 2023.08.22</strong>
-  <hr>
-  <img src="{{'assets/img/update_2308/confirmed mutations.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 300px;">
-  <br>
-  <br>
-  <strong>RBD Mutation Profile of Latest VOIs.</strong>
-  <hr>
-  <img src="{{'assets/img/update_2308/2023-08_VarRBD.png' | relative_url}}" alt="RBD profile" style="width: 700px; height: 300px;">
-  <br>
-  <br>
-  <strong>3D structure illustration</strong>
-  <hr>
-
-    <div class="l-page">
-    <style>
-        .molstar {
-            position: relative;
-            padding-bottom: 60%;
-        }
-    </style>
-    <link rel="stylesheet" type="text/css" href="https://molstar.org/viewer/molstar.css" />
-    <script type="text/javascript" src="https://molstar.org/viewer/molstar.js"></script>
-
-    <div id="viewer-1" class="molstar" style="display: block; margin-left:auto; margin-right:auto; padding-bottom: 60%;"></div>
-    <script type="text/javascript">
-        molstar.Viewer.create('viewer-1', {
-            layoutIsExpanded: false,
-            layoutShowControls: false,
-            layoutShowRemoteState: false,
-            layoutShowSequence: true,
-            layoutShowLog: false,
-            layoutShowLeftPanel: true,
-
-            viewportShowExpand: true,
-            viewportShowSelectionMode: false,
-            viewportShowAnimation: false,
-        }).then(viewer => {
-            viewer.loadSnapshotFromUrl("{{ 'assets/img/update_2308/LM_2023_08.molx' | relative_url }}", 'molx');
-        });
-    </script>
-</div>
-</div>
-
 <div id="panel-202307" class="panel">
-2023.07
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC0202307/2023-07a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC0202307/2023-07b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC0202307/2023-07c.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 <div id="panel-202306" class="panel">
 2023.06
+</div>
+
+<div id="panel-202305" class="panel">
+2023.05
+</div>
+
+<div id="panel-202304" class="panel">
+2023.04
+</div>
+
+<div id="panel-202303" class="panel">
+2023.03
+</div>
+
+<div id="panel-202302" class="panel">
+2023.04
+</div>
+
+<div id="panel-202301" class="panel">
+2023.03
 </div>
 
 </body>
