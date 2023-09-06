@@ -6,17 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-<style>
-    @media (min-width: 576px) {
-        .profile {
-            width: 30%;
-        }
-        .profile .address p {
-            display: block;
-        }
-    }
-</style>
-
 <html>
 <head>
 <style> 

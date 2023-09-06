@@ -5,16 +5,6 @@ permalink: /Updates/
 nav: true
 nav_order: 2
 ---
-<style>
-    @media (min-width: 576px) {
-        .profile {
-            width: 30%;
-        }
-        .profile .address p {
-            display: block;
-        }
-    }
-</style>
 
 <h4>The identified leading mutations in 2023 are listed as follows:<h4>
 <hr>
@@ -61,17 +51,17 @@ $(document).ready(function(){
 <div id="panel-202308" class="panel">
   <h4><strong>Outlined Mutation in 2023.08</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2308/2023-08.png' | relative_url}}" alt="2023-08" style="width: 1100px; height: 220px;">
+  {% include figure.html path="assets/img/update_2308/2023-08.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.08.04 - 2023.08.22</strong>
   <hr>
-  <img src="{{'assets/img/update_2308/confirmed_202308.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 300px;">
+  {% include figure.html path="assets/img/update_2308/confirmed_202308.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>RBD Mutation Profile of Latest VOIs.</strong>
   <hr>
-  <img src="{{'assets/img/update_2308/2023-08_VarRBD.png' | relative_url}}" alt="Confirmed mutations" style="width: 800px; height: 350px;">
+  {% include figure.html path="assets/img/update_2308/2023-08_VarRBD.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -107,12 +97,12 @@ $(document).ready(function(){
 <div id="panel-202307" class="panel">
   <h4><strong>Outlined Mutation in 2023.07</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2307/2023-07.png' | relative_url}}" alt="2023-07" style="width: 1100px; height: 250px;">
+  {% include figure.html path="assets/img/update_2307/2023-07.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.06.30 - 2023.07.05</strong>
   <hr>
-  <img src="{{'assets/img/update_2307/confirmed_202307.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 150px;">
+  {% include figure.html path="assets/img/update_2307/confirmed_202307.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -148,12 +138,12 @@ $(document).ready(function(){
 <div id="panel-202306" class="panel">
   <h4><strong>Outlined Mutation in 2023.06</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2306/2023-06.png' | relative_url}}" alt="2023-06" style="width: 1100px; height: 180px;">
+  {% include figure.html path="assets/img/update_2306/2023-06.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.06.01 - 2023.06.13</strong>
   <hr>
-  <img src="{{'assets/img/update_2306/confirmed_2306.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 170px;">
+  {% include figure.html path="assets/img/update_2306/confirmed_2306.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -189,12 +179,12 @@ $(document).ready(function(){
 <div id="panel-202305" class="panel">
   <h4><strong>Outlined Mutation in 2023.05</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2305/2023-05.png' | relative_url}}" alt="2023-05" style="width: 1100px; height: 250px;">
+  {% include figure.html path="assets/img/update_2305/2023-05.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.05.01 - 2023.05.12</strong>
   <hr>
-  <img src="{{'assets/img/update_2305/confirmed_2305.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 120px;">
+  {% include figure.html path="assets/img/update_2305/confirmed_2305.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -230,12 +220,12 @@ $(document).ready(function(){
 <div id="panel-202304" class="panel">
   <h4><strong>Outlined Mutation in 2023.04</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2304/2023-04.png' | relative_url}}" alt="2023-04" style="width: 1100px; height: 250px;">
+  {% include figure.html path="assets/img/update_2304/2023-04.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.04.01 - 2023.04.21</strong>
   <hr>
-  <img src="{{'assets/img/update_2304/confirmed_2304.png' | relative_url}}" alt="Confirmed mutations" style="width: 650px; height: 375px;">
+  {% include figure.html path="assets/img/update_2304/confirmed_2304.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -271,12 +261,13 @@ $(document).ready(function(){
 <div id="panel-202303" class="panel">
   <h4><strong>Outlined Mutation in 2023.03</strong></h4>
   <hr>
+  {% include figure.html path="assets/img/update_2303/2023-03.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <img src="{{'assets/img/update_2303/2023-03.png' | relative_url}}" alt="2023-03" style="width: 1100px; height: 300px;">
   <br>
   <br>
   <strong>2023.03.01 - 2023.03.21</strong>
   <hr>
-  <img src="{{'assets/img/update_2303/confirmed_2303.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 250px;">
+  {% include figure.html path="assets/img/update_2303/confirmed_2303.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -312,12 +303,12 @@ $(document).ready(function(){
 <div id="panel-202302" class="panel">
   <h4><strong>Outlined Mutation in 2023.02</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2302/2023-02.png' | relative_url}}" alt="2023-02" style="width: 1100px; height: 250px;">
+  {% include figure.html path="assets/img/update_2302/2023-02.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.02.03 - 2023.02.20</strong>
   <hr>
-  <img src="{{'assets/img/update_2302/confirmed_2302.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 250px;">
+  {% include figure.html path="assets/img/update_2302/confirmed_2302.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
@@ -353,12 +344,12 @@ $(document).ready(function(){
 <div id="panel-202301" class="panel">
   <h4><strong>Outlined Mutation in 2023.01</strong></h4>
   <hr>
-  <img src="{{'assets/img/update_2301/2023-01.png' | relative_url}}" alt="2023-01" style="width: 1100px; height: 250px;">
+  {% include figure.html path="assets/img/update_2301/2023-01.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>2023.01.17 - 2023.01.31</strong>
   <hr>
-  <img src="{{'assets/img/update_2301/confirmed_2301.png' | relative_url}}" alt="Confirmed mutations" style="width: 600px; height: 250px;">
+  {% include figure.html path="assets/img/update_2301/confirmed_2301.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <br>
   <strong>3D structure illustration</strong>
