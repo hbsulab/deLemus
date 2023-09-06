@@ -36,7 +36,5 @@ The spike glycoprotein of SARS-CoV-2 is a trimeric type I viral fusion protein t
 
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://clustrmaps.com/site/1bwf5" title="Visit tracker">
-        <img src="//www.clustrmaps.com/map_v2.png?d=BbQ_0GzxAHfbf8OF24R37af4zf2Ca4-JN2AehUVU7Dk&cl=ffffff" style="width: 350px; height: 220px;">
-    </a>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=405&t=n&d=BbQ_0GzxAHfbf8OF24R37af4zf2Ca4-JN2AehUVU7Dk'></script>
 </div>
