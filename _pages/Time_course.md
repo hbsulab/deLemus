@@ -6,6 +6,17 @@ nav: true
 nav_order: 3
 ---
 
+<style>
+    @media (min-width: 576px) {
+        .profile {
+            width: 30%;
+        }
+        .profile .address p {
+            display: block;
+        }
+    }
+</style>
+
 <html>
 <head>
 <style> 
@@ -119,15 +130,54 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202304" class="panel">
-2023.04
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202304/2023-04a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202304/2023-04b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202304/2023-04c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202303" class="panel">
-2023.03
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202303/2023-03a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202303/2023-03b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202303/2023-03c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202302" class="panel">
-2023.04
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202302/2023-02a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202302/2023-02b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202302/2023-02c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202301" class="panel">

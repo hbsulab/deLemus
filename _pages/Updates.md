@@ -5,6 +5,17 @@ permalink: /Updates/
 nav: true
 nav_order: 2
 ---
+<style>
+    @media (min-width: 576px) {
+        .profile {
+            width: 30%;
+        }
+        .profile .address p {
+            display: block;
+        }
+    }
+</style>
+
 <h4>The identified leading mutations in 2023 are listed as follows:<h4>
 <hr>
 <br>
