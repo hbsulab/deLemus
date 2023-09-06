@@ -62,9 +62,9 @@ $(document).ready(function(){
   <option value="2022.06">2022.06</option>
   <option value="2021.08">2021.08</option>
   <option value="2021.03">2021.03</option>
-  <option value="2021.03">2020.12</option>
-  <option value="2021.03">2020.11</option>
-  <option value="2021.03">2020.10</option>
+  <option value="2020.12">2020.12</option>
+  <option value="2020.11">2020.11</option>
+  <option value="2020.10">2020.10</option>
 </select>
 
 <div id="panel-202307" class="panel">
@@ -189,36 +189,68 @@ $(document).ready(function(){
 <div id="panel-202208" class="panel">
   <h4><strong>NTD</strong></h4>
   <hr>
-  {% include figure.html path="assets/img/TC202301/2023-01a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/TC202208/2022-08a.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <h4><strong>RBD</strong></h4>
   <hr>
-  {% include figure.html path="assets/img/TC202301/2023-01b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/TC202208/2022-08b.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
   <h4><strong>Other Domains</strong></h4>
   <hr>
-  {% include figure.html path="assets/img/TC202301/2023-01c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  {% include figure.html path="assets/img/TC202208/2022-08c.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <div align="right">
     <p><h5>Click<a href="#"> here </a>to top.</h5></p>
   </div>
 </div>
 
 <div id="panel-202206" class="panel">
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202206/2022-06a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202206/2022-06b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202206/2022-06c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202108" class="panel">
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202108/2021-08a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202108/2021-08b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202108/2021-08c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202103" class="panel">
+{% include figure.html path="assets/img/TC202103/2021-03.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 <div id="panel-202012" class="panel">
+{% include figure.html path="assets/img/TC202012/2020-12.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 <div id="panel-202011" class="panel">
+{% include figure.html path="assets/img/TC202011/2020-11.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 <div id="panel-202010" class="panel">
+{% include figure.html path="assets/img/TC202010/2020-10.png" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
 
 </body>
