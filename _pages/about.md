@@ -6,7 +6,7 @@ subtitle: Dynamic Expedition of Leading Mutations in SARS-CoV-2 Spike Glycoprote
 
 profile:
   align: right
-  image: /about/spike.png
+  image: about/movie2.gif
   image_circular: false # crops the image to make it circular
   address: 
 
