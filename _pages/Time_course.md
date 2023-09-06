@@ -29,16 +29,11 @@ h5 {
 <script>
 $(document).ready(function(){
   $(".panel").hide();
-
   // Show latest panel
   $("#panel-202307").show();
-
   $("#dateSelect").change(function(){
-
     $(".panel").hide();
-
     var selected = $(this).val();
-
     $("#panel-"+selected.replace('.', '')).show();
   });
 });
@@ -63,6 +58,13 @@ $(document).ready(function(){
   <option value="2023.03">2023.03</option>
   <option value="2023.02">2023.02</option>
   <option value="2023.01">2023.01</option>
+  <option value="2022.08">2022.08</option>
+  <option value="2022.06">2022.06</option>
+  <option value="2021.08">2021.08</option>
+  <option value="2021.03">2021.03</option>
+  <option value="2021.03">2020.12</option>
+  <option value="2021.03">2020.11</option>
+  <option value="2021.03">2020.10</option>
 </select>
 
 <div id="panel-202307" class="panel">
@@ -77,14 +79,43 @@ $(document).ready(function(){
   <h4><strong>Other Domains</strong></h4>
   <hr>
   {% include figure.html path="assets/img/TC0202307/2023-07c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202306" class="panel">
-2023.06
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202306/2023-06a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202306/2023-06b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202306/2023-06c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202305" class="panel">
-2023.05
+  <h4><strong>NTD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202305/2023-05a.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>RBD</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202305/2023-05b.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <h4><strong>Other Domains</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/TC202305/2023-05c.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div align="right">
+    <p><h5>Click<a href="#"> here </a>to top.</h5></p>
+  </div>
 </div>
 
 <div id="panel-202304" class="panel">
