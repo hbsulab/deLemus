@@ -66,6 +66,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2308/2023_08.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -107,6 +109,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2307/2023_07.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -148,6 +152,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2306/2023_06.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -189,6 +195,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2305/2023_05.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -230,6 +238,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2304/2023_04.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -272,6 +282,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2303/2023_03.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -313,6 +325,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2302/2023_02.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
@@ -354,6 +368,8 @@ $(document).ready(function(){
   <br>
   <strong>3D structure illustration</strong>
   <hr>
+  <a href="{{'assets/img/update_2301/2023_01.pdb' | relative_url }}" download="file.pdb">Click to download PDB file</a>
+  <br>
     <div class="l-page">
     <style>
         .molstar {
