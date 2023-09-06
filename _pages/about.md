@@ -33,14 +33,3 @@ The spike glycoprotein of SARS-CoV-2 is a trimeric type I viral fusion protein t
 
 <br>
 <hr>
-
-<div align="right">
-
-  <html><a href="https://www.revolvermaps.com/livestats/locations/57gzazn1dbb/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/0/57gzazn1dbb.png" width="180" height="120" alt="Map" style="border:0;"></a></html>
-  <html>
-  <div id="sfc9pt5d2hy2d328lsrbbs6nlkm4sax62ug"></div>
-  <script type="text/javascript" src="https://counter10.optistats.ovh/private/counter.js?c=9pt5d2hy2d328lsrbbs6nlkm4sax62ug&down=async" async></script>
-  <noscript><a href="https://www.freecounterstat.com" title="free website counter"><img src="https://counter10.optistats.ovh/private/freecounterstat.php?c=9pt5d2hy2d328lsrbbs6nlkm4sax62ug" border="0" title="free website counter" alt="free website counter"></a></noscript>
-  </html>
-
-</div>
