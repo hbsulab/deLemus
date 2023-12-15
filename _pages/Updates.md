@@ -7,8 +7,6 @@ nav_order: 2
 ---
 
 <h4>The identified leading mutations in 2023 are listed as follows:<h4>
-<hr>
-<br>
 
 <html>
 <head>
@@ -29,8 +27,8 @@ $(document).ready(function(){
 .panel {
   padding: 50px;
   text-align: left;
-  background-color: #f2e9f0;
-  border: solid 1px #f2e9f0;
+  background-color: #ffffff;
+  border: solid 1.5px #ebebeb;
 }
 </style>
 </head>
