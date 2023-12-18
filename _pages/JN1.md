@@ -29,7 +29,7 @@ nav_order: 6
 
 <h2 style="text-align: left;"><strong>BA.2.86's mutation</strong></h2>
 <hr>
-<h5>The following shows the deLemus captured BA.2.86 strain mutation</h5>
+<h5>The following shows the deLemus captured BA.2.86 strain mutations:</h5>
 <div style="width: 800px; margin: auto;">
 {% include figure.html path="assets/img/JN.1/BA.2.86.png" title="L445S" class="img-fluid rounded z-depth-1" %}
 </div>
