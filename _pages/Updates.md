@@ -349,7 +349,7 @@ $(document).ready(function(){
   <h4><strong>Outlined Mutation in 2023.03</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2303/2023-03.png" title="example image" class="img-fluid rounded z-depth-1" %}
-  <img src="{{'assets/img/update_2303/2023-03.png' | relative_url}}" alt="2023-03" style="width: 1100px; height: 300px;">
+  <!-- <img src="{{'assets/img/update_2303/2023-03.png' | relative_url}}" alt="2023-03" style="width: 1100px; height: 300px;"> -->
   <br>
   <br>
   <strong>2023.03.01 - 2023.03.21</strong>
