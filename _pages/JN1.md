@@ -31,7 +31,7 @@ nav_order: 6
 <br>
 <h5>The L455S mutation occurs within the receptor-binding domain (RBD) of the spike protein, a region that is crucial for the interaction with the human ACE2 receptor. Recent reports and studies, such as the one found at <a href='https://www.biorxiv.org/content/10.1101/2023.12.08.570782v1'>bioRxiv</a>, suggest that the RBD harboring this mutation displays a reduced affinity for binding with human ACE2. This could paradoxically enhance the transmissibility of the JN.1 variant, as the mutation may confer an increased ability to evade immune responses elicited by previous exposures to variants such as XBB.1.5 and EG.5.1.</h5>
 <div style="width: 800px; margin: auto;">
-{% include figure.html path="assets/img/JN.1/figure1_v3.png" title="L445S" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/JN.1/figure1_v4.png" title="L445S" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
 
