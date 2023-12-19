@@ -12,13 +12,14 @@ nav_order: 6
 <h5>In comparison to the BA.2.86 strain, JN.1 exhibits a notable <strong> L455S </strong> spike protein mutation, accompanied by three other mutations located in the non-spike proteins. The SARS-CoV-2 BA.2.86 lineage, identified initially in August 2023, differs genetically from the extant Omicron XBB variants such as EG.5.1 and HK.3. Possessing more than 30 spike protein mutations, the BA.2.86 lineage demonstrates a strong potential to circumvent pre-existing immunity to SARS-CoV-2. The JN.1 variant has exhibited a swift increase in its proportion of the global viral variants since November, leading to the World Health Organization's elevation of BA.2.86 from the status of a Variant Under Monitoring (VUM) to that of a <strong> Variant of Interest (VOI)</strong>  as of November 21. </h5>
 <br>
 
-<h2 style="text-align: left;"><strong>JN.1's mutation captured by deLemus</strong></h2>
+<h2 style="text-align: left;"><strong>JN.1 mutations</strong></h2>
 <hr>
-<h5>JN.1's mutations captured by deLemus and confirmed by prevalent variants:</h5>
-<div style="width: 1000px; margin: auto;">
-{% include figure.html path="assets/img/JN.1/JN.1.png" title="BA.2.86" class="img-fluid rounded z-depth-1" %}
+<h5>JN.1's mutation outlined by deLemus and outlined dates</h5>
+<div style="width: 700px; margin: auto;">
+    {% include figure.html path="assets/img/JN.1/JN.1_mutations.png" title="L445" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
+
 
 <h2 style="text-align: left;"><strong>Feature Mutation: L455S</strong></h2>
 <hr>
@@ -35,3 +36,10 @@ nav_order: 6
 </div>
 <br>
 
+<h2 style="text-align: left;"><strong>Main mutations</strong></h2>
+<hr>
+<h5>JN.1's main mutations in other prevalent variants:</h5>
+<div style="width: 1000px; margin: auto;">
+{% include figure.html path="assets/img/JN.1/JN.1.png" title="BA.2.86" class="img-fluid rounded z-depth-1" %}
+</div>
+<br>
