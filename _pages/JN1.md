@@ -14,10 +14,16 @@ nav_order: 6
 
 <h2 style="text-align: left;"><strong>JN.1 mutations</strong></h2>
 <hr>
-<h5>JN.1's mutation outlined by deLemus and outlined dates</h5>
-<div style="width: 700px; margin: auto;">
-    {% include figure.html path="assets/img/JN.1/JN.1_mutations.png" title="L445" class="img-fluid rounded z-depth-1" %}
+<h5>In 2023.11, the mutations outlined and confirmed by JN.1 are listed:</h5>
+<div style="width: 1000px; margin: auto;">
+    {% include figure.html path="assets/img/JN.1/2023_11_jn.1.png" title="2023.11 outlined" class="img-fluid rounded z-depth-1" %}
 </div>
+<br>
+<h5>JN.1's mutations outlined by deLemus and outlined dates:</h5>
+<div style="width: 700px; margin: auto;">
+    {% include figure.html path="assets/img/JN.1/JN.1_mutations.png" title="JN.1 mutations" class="img-fluid rounded z-depth-1" %}
+</div>
+<hr>
 <br>
 
 
