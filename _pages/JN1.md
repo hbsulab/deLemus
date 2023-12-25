@@ -15,7 +15,7 @@ nav_order: 6
 <h2 style="text-align: left;"><strong>JN.1 mutations</strong></h2>
 <hr>
 <h5>In <strong>2023.11</strong>, the mutations outlined and confirmed by JN.1 are listed:</h5>
-<div style="width: 1000px; margin: auto;">
+<div style="width: 700px; margin: auto;">
     {% include figure.html path="assets/img/JN.1/2023_11_jn.1.png" title="2023.11 outlined" class="img-fluid rounded z-depth-1" %}
 </div>
 <br>
