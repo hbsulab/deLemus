@@ -91,6 +91,10 @@ $(document).ready(function(){
   <hr>
   {% include figure.html path="assets/img/update_2309/2023-09.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
+  <strong>2023.09.08</strong>
+  <hr>
+  {% include figure.html path="assets/img/update_2309/confirmed_mutations.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
   <br>
   <strong>3D structure illustration</strong>
   <hr>
