@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haibinsu.github.io/deLemus/sitemap.xml
+Sitemap: https://hbsulab.github.io/deLemus/sitemap.xml
