@@ -36,6 +36,7 @@ $(document).ready(function(){
  
 <select id="dateSelect">
   <option value="">--Select Month--</option>
+  <option value="2024.04">2024.04</option>
   <option value="2024.03">2024.03</option>
   <option value="2024.02">2024.02</option>
   <option value="2024.01">2024.01</option>
