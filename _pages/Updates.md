@@ -15,7 +15,7 @@ nav_order: 2
 $(document).ready(function(){
   $(".panel").hide();
   // Show latest panel
-  $("#panel-202403").show();
+  $("#panel-202404").show();
   $("#dateSelect").change(function(){
     $(".panel").hide();
     var selected = $(this).val();
@@ -52,6 +52,18 @@ $(document).ready(function(){
   <option value="2023.02">2023.02</option>
   <option value="2023.01">2023.01</option>
 </select>
+
+<div id="panel-202404" class="panel">
+  <h4><strong>Outlined Mutation in 2024.04</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/update_2404/2024-04.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <br>
+  <strong>2024.03.27-2024.04.08</strong>
+  <hr>
+  {% include figure.html path="assets/img/update_2404/ .png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+</div>
 
 <div id="panel-202403" class="panel">
   <h4><strong>Outlined Mutation in 2024.03</strong></h4>
