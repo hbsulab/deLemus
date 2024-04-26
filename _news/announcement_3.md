@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Outlined mutations of 2024.04 that are confirmed in VOC/emerging variants are updated! </a>
+<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Variants information of latest outlined mutations that are confirmed in VOC/emerging variants are updated! </a>
 

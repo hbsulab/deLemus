@@ -55,7 +55,7 @@ $(document).ready(function(){
 </select>
 
 <div id="panel-202404" class="panel">
-  <h4><strong>Outlined Mutation in 2024.04</strong></h4>
+  <h4><strong>Outlined Mutations in 2024.04</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2404/2024-04.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -67,7 +67,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202403" class="panel">
-  <h4><strong>Outlined Mutation in 2024.03</strong></h4>
+  <h4><strong>Outlined Mutations in 2024.03</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2403/2024-03.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -79,7 +79,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202402" class="panel">
-  <h4><strong>Outlined Mutation in 2024.02</strong></h4>
+  <h4><strong>Outlined Mutations in 2024.02</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2402/2024-02.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -91,7 +91,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202401" class="panel">
-  <h4><strong>Outlined Mutation in 2024.01</strong></h4>
+  <h4><strong>Outlined Mutations in 2024.01</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2401/2024-01.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -103,7 +103,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202312" class="panel">
-  <h4><strong>Outlined Mutation in 2023.12</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.12</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2312/2023-12.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -115,7 +115,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202311" class="panel">
-  <h4><strong>Outlined Mutation in 2023.11</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.11</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2311/2023-11.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -127,7 +127,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202310" class="panel">
-  <h4><strong>Outlined Mutation in 2023.10</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.10</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2310/2023-10.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -139,7 +139,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202309" class="panel">
-  <h4><strong>Outlined Mutation in 2023.09</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.09</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2309/2023-09.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -182,7 +182,7 @@ $(document).ready(function(){
 
 
 <div id="panel-202308" class="panel">
-  <h4><strong>Outlined Mutation in 2023.08</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.08</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2308/2023-08.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -230,7 +230,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202307" class="panel">
-  <h4><strong>Outlined Mutation in 2023.07</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.07</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2307/2023-07.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -273,7 +273,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202306" class="panel">
-  <h4><strong>Outlined Mutation in 2023.06</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.06</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2306/2023-06.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -316,7 +316,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202305" class="panel">
-  <h4><strong>Outlined Mutation in 2023.05</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.05</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2305/2023-05.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -359,7 +359,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202304" class="panel">
-  <h4><strong>Outlined Mutation in 2023.04</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.04</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2304/2023-04.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -402,7 +402,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202303" class="panel">
-  <h4><strong>Outlined Mutation in 2023.03</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.03</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2303/2023-03.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <!-- <img src="{{'assets/img/update_2303/2023-03.png' | relative_url}}" alt="2023-03" style="width: 1100px; height: 300px;"> -->
@@ -446,7 +446,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202302" class="panel">
-  <h4><strong>Outlined Mutation in 2023.02</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.02</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2302/2023-02.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
@@ -489,7 +489,7 @@ $(document).ready(function(){
 </div>
 
 <div id="panel-202301" class="panel">
-  <h4><strong>Outlined Mutation in 2023.01</strong></h4>
+  <h4><strong>Outlined Mutations in 2023.01</strong></h4>
   <hr>
   {% include figure.html path="assets/img/update_2301/2023-01.png" title="example image" class="img-fluid rounded z-depth-1" %}
   <br>
