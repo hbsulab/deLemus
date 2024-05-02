@@ -15,7 +15,7 @@ nav_order: 2
 $(document).ready(function(){
   $(".panel").hide();
   // Show latest panel
-  $("#panel-202404").show();
+  $("#panel-202405").show();
   $("#dateSelect").change(function(){
     $(".panel").hide();
     var selected = $(this).val();
