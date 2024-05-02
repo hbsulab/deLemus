@@ -36,6 +36,7 @@ $(document).ready(function(){
  
 <select id="dateSelect">
   <option value="">--Select Month--</option>
+  <option value="2024.05">2024.05</option>
   <option value="2024.04">2024.04</option>
   <option value="2024.03">2024.03</option>
   <option value="2024.02">2024.02</option>
@@ -53,6 +54,18 @@ $(document).ready(function(){
   <option value="2023.02">2023.02</option>
   <option value="2023.01">2023.01</option>
 </select>
+
+<div id="panel-202405" class="panel">
+  <h4><strong>Outlined Mutations in 2024.05</strong></h4>
+  <hr>
+  {% include figure.html path="assets/img/update_2405/2024-05.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+  <br>
+  <strong>2024.04.25-2024.05.02</strong>
+  <hr>
+  {% include figure.html path="assets/img/update_2405/confirmed_202405.png" title="example image" class="img-fluid rounded z-depth-1" %}
+  <br>
+</div>
 
 <div id="panel-202404" class="panel">
   <h4><strong>Outlined Mutations in 2024.04</strong></h4>
