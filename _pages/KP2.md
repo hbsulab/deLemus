@@ -53,4 +53,4 @@ nav_order: 4
 <br>
 3. Kaku, Y. _et al._ Virological characteristics of the SARS-COV-2 JN.1 variant. _The Lancet Infectious Diseases_ **24**, e82 (2024).
 <br>
-4. Ray, D., Le, L., & Andricioaei, I. Distant residues modulate conformational opening in SARS-COV-2 spike protein. _Proceedings of the National Academy of Sciences_, **118**, e2100943118 (2021).
+4. Ray, D., Le, L., & Andricioaei, I. Distant residues modulate conformational opening in SARS-COV-2 spike protein. _Proceedings of the National Academy of Sciences_ **118**, e2100943118 (2021).
