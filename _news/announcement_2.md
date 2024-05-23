@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Outlined mutations in 2024.05 are published! </a>
+<a href="{{ '/Updates/' | relative_url }}" style="color: inherit;">Outlined mutations in 2024.05 are published. </a>
 

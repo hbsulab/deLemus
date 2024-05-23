@@ -2,7 +2,7 @@
 layout: about
 title: deLemus
 permalink: /
-subtitle: Dynamic Expedition of Leading Mutations in SARS-CoV-2 Spike Glycoproteins.
+subtitle: Dynamic Expedition of Leading Mutations in SARS-CoV-2 Spike Glycoproteins
 
 profile:
   align: right
