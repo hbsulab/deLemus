@@ -4,7 +4,7 @@ permalink: /KP.2/
 title: KP.2
 description: The KP.2 (JN.1.11.1.2) variant is the most recently emerged variant of SARS-CoV-2 that descended from the JN.1 lineage.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <h2 style="text-align: left;"><strong>Background</strong></h2>
