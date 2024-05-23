@@ -2,7 +2,7 @@
 layout: page
 permalink: /JN.1/
 title: JN.1
-description: The JN.1 (BA.2.86.1.1) is the most recently emerged variant of SARS-CoV-2 that descended from the BA.2.86 lineage.
+description: The JN.1 (BA.2.86.1.1) is the most recently dominating variant of SARS-CoV-2 that descended from the BA.2.86 lineage.
 nav: true
 nav_order: 4
 ---
