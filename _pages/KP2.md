@@ -9,7 +9,7 @@ nav_order: 4
 
 <h2 style="text-align: left;"><strong>Background</strong></h2>
 <hr>
-<h5> The World Health Organization has elevated <strong>JN.1</strong> from a <strong>variant under monitoring (VUM) to a variant of interest (VOI)</strong> on 18 December 2023, and it has become the dominating strain across the globe. Recently,the <strong>KP.2</strong> variant, a descendant of JN.1, is designated as a VUM on <strong>3 May 2024</strong>, swiftly after its emergence.<a href='https://www.who.int/activities/tracking-SARS-CoV-2-variants'>[1]</a></h5>
+<h5> The World Health Organization has elevated <strong>JN.1</strong> from a <strong>variant under monitoring (VUM) to a variant of interest (VOI)</strong> on 18 December 2023, and it has become the dominating strain across the globe. Recently, the <strong>KP.2</strong> variant, a descendant of JN.1, is designated as a VUM on <strong>3 May 2024</strong>, swiftly after its emergence.<a href='https://www.who.int/activities/tracking-SARS-CoV-2-variants'>[1]</a></h5>
 <br>
 <h5>The KP.2 variant exhibits 2 distinct mutations in RBD, <strong>R346T</strong> and <strong>F456L</strong>, as depicted by its nickname "FLiRT", accompanied by <strong>V1104L</strong> in S2, in comparison with the JN.1 strain. <strong>Amino acid residues 346 and 456</strong>, located within epitopes which are targets of neutralizing antibodies, have been observed undergoing substitutions in past variants, like R346T in BQ.1 & XBB, and F456L in EG.5 & HK.3.<a href='https://www.who.int/news/item/26-04-2024-statement-on-the-antigen-composition-of-covid-19-vaccines'>[2]</a></h5>
 <br>
