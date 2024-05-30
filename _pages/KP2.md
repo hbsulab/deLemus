@@ -50,9 +50,6 @@ nav_order: 4
 <h2 style="text-align: left;"><strong>References</strong></h2>
 <hr>
 1. Tracking SARS-CoV-2 variants. (2024). <a href="https://www.who.int/activities/tracking-SARS-CoV-2-variants">https://www.who.int/activities/tracking-SARS-CoV-2-variants</a>
-<br>
 2. Statement on the antigen composition of COVID-19 vaccines. (2024). <a href="https://www.who.int/news/item/26-04-2024-statement-on-the-antigen-composition-of-covid-19-vaccines">https://www.who.int/news/item/26-04-2024-statement-on-the-antigen-composition-of-covid-19-vaccines</a>
-<br>
-3. Kaku, Y. _et al._ Virological characteristics of the SARS-COV-2 JN.1 variant. _The Lancet Infectious Diseases_ **24**, e82 (2024).
-<br>
-4. Ray, D., Le, L., & Andricioaei, I. Distant residues modulate conformational opening in SARS-COV-2 spike protein. _Proceedings of the National Academy of Sciences_ **118**, e2100943118 (2021).
+3. Kaku, Y. _et al._ Virological characteristics of the SARS-COV-2 JN.1 variant. _Lancet Infect Dis_ **24**, e82 (2024).
+4. Ray, D., Le, L., & Andricioaei, I. Distant residues modulate conformational opening in SARS-COV-2 spike protein. _Proc Natl Acad Sci U S A_ **118**, e2100943118 (2021).
