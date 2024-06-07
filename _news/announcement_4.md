@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-<a href="{{ '/KP.2/' | relative_url }}" style="color: inherit;">KP.2's information is available!</a>
+<a href="{{ '/KP.2/' | relative_url }}" style="color: inherit;">KP.2's information is available.</a>
 
