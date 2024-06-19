@@ -27,7 +27,7 @@ The <strong>purpose</strong> of deLemus platform is to continuously monitor the 
 
 The spike glycoprotein of SARS-CoV-2 is a trimeric type I viral fusion protein that binds the virus to the angiotensin-converting enzyme 2 (ACE2) receptor of a host cell.<a href='https://doi.org/10.1038/s41580-021-00418-x'>[5]</a> It is composed of 2 subunits: the N-terminal subunit 1 (S1) and C-terminal subunit 2 (S2), within which multiple domains lie. The S1 region facilitates ACE2 binding and is made up of an N-terminal domain (NTD), a receptor-binding domain (RBD), and 2 C-terminal subdomains (CTD1 and CTD2), while the downstream S2 region is responsible for mediating virus-host cell membrane fusion.
 
-{% include figure.html path="assets/img/about/Domains.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/about/Domains.png" title="Subunits and Domains of the Spike" class="img-fluid rounded z-depth-1" %}
 <br>
 
 <h4 style="text-align: left;"><strong>References</strong></h4>
